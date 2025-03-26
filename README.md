@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anderson Moura
-- 👀 I’m interested in data fields, economy and business storys.  
+- 👀 I’m interested in financial markets, economy and business storys.  
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on data field, specially related to financial markets.
 - 📫 You can reach me at www.linkedin.com/in/andersonsmoura/
